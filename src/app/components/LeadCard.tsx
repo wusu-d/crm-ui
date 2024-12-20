@@ -117,12 +117,12 @@ const LeadCard = ({
               <h4 className="font-semibold">Why I picked this lead</h4>
               <ul className="space-y-2 text-sm text-gray-600">
                 <li>
-                  • {name} is a key decision maker and was browsing 'espresso
-                  machines&apos; on First Coffee&apos;s website
+                  • {name} is a key decision maker and was browsing
+                  &apos;espresso machines&apos; on First Coffee&apos;s website
                 </li>
                 <li>
-                  • Multiple people at their company have reported 'slowness'
-                  during service requests
+                  • Multiple people at their company have reported
+                  &apos;slowness&apos; during service requests
                 </li>
                 <li>
                   • {company} currently sees $200M in revenue from their
@@ -137,11 +137,12 @@ const LeadCard = ({
                 {name}, the Chief Operating Officer of {company}, is a dynamic
                 leader with a proven track record in optimizing operations and
                 enhancing customer experiences. Under their guidance, {company}
-                's in-store coffee shops have flourished, becoming a hallmark of
-                quality and innovation. Their commitment to excellence makes
-                them an ideal partner for First Coffee. She's always seeking
-                top-tier equipment to elevate her coffee shops' offerings,
-                ensuring consistent, high-quality service.
+                &apos;s in-store coffee shops have flourished, becoming a
+                hallmark of quality and innovation. Their commitment to
+                excellence makes them an ideal partner for First Coffee.
+                She&apos;s always seeking top-tier equipment to elevate her
+                coffee shops&apos; offerings, ensuring consistent, high-quality
+                service.
               </p>
             </div>
 
